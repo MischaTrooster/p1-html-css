@@ -8,3 +8,6 @@ p {color: #4D4D4D
 }
 a {color: #8A2BE2
 }
+a:link {
+    text-decoration: none;
+  }
