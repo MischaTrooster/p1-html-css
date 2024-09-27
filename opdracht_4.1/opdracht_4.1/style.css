@@ -1,13 +1,57 @@
-h1 {font-weight: 24px; color: rgb(0, 0, 255); font-style: italic;
+h1 {font-weight: 24px; color: rgb(255, 0, 0); font-style: italic;
 }
 h2 {font-weight: 20px; color: #0000ff
 }
 h3 {font-weight: 16px; color: teal
 }
-p {color: #4D4D4D  
+p { 
+  color: #fbff00  
 }
 a {color: #8A2BE2
 }
+
+p1 
+
 a:link {
     text-decoration: none;
   }
+header {
+  border-radius: 30px;
+  border-style: outset;
+  border-width: 5px;
+  border-color: gold;
+  padding: 5px;
+  border-left-width: 10px;
+  background-image: url(img/gaming.jpeg );
+  background-repeat: no-repeat;
+  background-size: cover
+
+}
+article {  border-radius: 30px;
+  border-style: outset;
+  border-width: 5px;
+  border-color: gold;
+  padding: 5px;
+  border-left-width: 10px;
+  border-bottom-width: 10px;
+
+}
+
+.img1 {
+  width: 100vw;
+}
+
+.img2 {
+  width: 100vw;}
+  
+.img3 {
+   width: 100vw;}
+
+.img4 {
+    width: 100vw;}
+
+    .img5 {
+      width: 100vw;}
+
+ .img6 {
+        width: 100vw;}

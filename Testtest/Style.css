@@ -1,0 +1,12 @@
+h1 {font-family: "Edu AU VIC WA NT Guides", cursive;
+}
+.box{
+    position: absolute;
+    top: 0px;
+    width: 300px;
+    height: 250px;
+    color: aqua;
+    border: 2px;
+    border-color: black;
+    border-style: dashed;
+}
