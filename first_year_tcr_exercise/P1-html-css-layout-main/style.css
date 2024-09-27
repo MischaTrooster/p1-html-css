@@ -11,6 +11,7 @@ body {
   background-image: url(img/background.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-color: black;
 } 
 
 nav {
@@ -53,3 +54,4 @@ padding:bottom
 
 h1 {font-weight: 70;}
 p {font-weight: 70;}
+
