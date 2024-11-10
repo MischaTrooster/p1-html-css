@@ -3,9 +3,20 @@
   padding: 0;
   box-sizing: border-box;
 }
-html {
-  font-size: 62.5%;
+.foto1 {
+  position: absolute;
+  
+
+
+
 }
+
+.fotohtml 
+{position: absolute;
+  
+
+}
+
 
 #body1 {
   font-family: "Goldman", cursive;
@@ -206,7 +217,7 @@ main
 
 .index3 {
  position: absolute;
-  right: 45%;
+  right: 80%;
   margin-top: 80px;
   width: 200px;
   position: absolute;
